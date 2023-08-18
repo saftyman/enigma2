@@ -1,0 +1,51 @@
+Package: enigma2-plugin-elsafty-panel-ajpanel-v.99
+Version: saftyfeed
+Depends: enigma2
+Section: elsafty
+Architecture: all
+MD5Sum: 738ac34f17957c749b2d0b1bc4746ab8
+Size: 273118
+Filename: enigma2-plugin-elsafty-panel-ajpanel-v.99_saftyfeed_all.ipk
+Description: enigma2-tools
+Maintainer: saftyfeed
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
+Package: enigma2-plugin-emil-internet-speedtest-v.1.5
+Version: emilsat
+Depends: enigma2
+Section: emil
+Architecture: all
+MD5Sum: 341046ea5d8ec436fd832971387341b1
+Size: 714304
+Filename: enigma2-plugin-emil-internet-speedtest-v.1.5_emilsat_all.ipk
+Description: Speedtest for enigma2 by Madhouse
+Maintainer: madhouse
+Priority: optional
+Source: https://github.com/m4dhouse/Internet-Speedtest
+Homepage: 
+OE: Enigma2 Plugin
+License: open
+
+
+Package: enigma2-plugin-extensions-ajpanel-v7.0.0
+Version: saftyman
+Depends: enigma2
+Section: base
+Architecture: all
+MD5Sum: f48dbc871af40f0cfb7faaa619c90059
+Size: 273158
+Filename: enigma2-plugin-extensions-ajpanel-v7.0.0_saftyman_all.ipk
+Description: enigma2-tools-saftyman
+Maintainer: saftyman
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
+
+
